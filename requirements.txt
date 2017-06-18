@@ -1,0 +1,4 @@
+arrow
+sqlalchemy
+requests
+python-slackclient
