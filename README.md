@@ -2,9 +2,13 @@
 
 Getting near real-time notifications on Carousell.
 
+## Requirements
+
+Python 3+
+
 ## Installing
 
-`pip3 install requirements.txt`
+`pip3 install -r requirements.txt`
 
 ## Configuring
 
